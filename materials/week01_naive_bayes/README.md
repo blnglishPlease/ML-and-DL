@@ -4,7 +4,7 @@ Slides:
 Naive Bayes from scratch:
 
 
-* Solved version: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/blnglishPlease/ML-and-DL/blob/main/materials/week01_naive_bayes/week0_01_01_naive_bayes__completed.ipynb)
+* Solved version: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/blnglishPlease/ML-and-DL/blob/main/materials/week01_naive_bayes/naive_bayes.ipynb)
 
 kNN example:
 
