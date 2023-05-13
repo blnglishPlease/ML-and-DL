@@ -1,7 +1,4 @@
 NN from scratch:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/blnglishPlease/ML-and-DL/blob/main/materials/week07_intro_to_DL/week07_nn_from_scratch_practice_edition.ipynb)
-
-NN from scratch(full):
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/blnglishPlease/ML-and-DL/blob/main/materials/week07_intro_to_DL/week07_nn_from_scratch.ipynb)
 
 **Further readings**:
